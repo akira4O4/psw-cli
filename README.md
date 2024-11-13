@@ -1,2 +1,2 @@
-# Passord Manager CLI
+# Password Manager CLI
 ## TODO
